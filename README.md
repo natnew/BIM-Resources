@@ -6,8 +6,10 @@
 - Article 📰
 - Book 📖
 - Communities 🤝
+- Course 🧑‍🎓
 - Paper 📑
 - Podcast 🎵
+- Report ℹ️
 - Webinar 📺
 - Video 📹
    
@@ -32,6 +34,12 @@
 - [Built Environment: Digital Futures](https://www.northumbria.ac.uk/about-us/academic-departments/architecture-and-built-environment/research/built-environment-digital-futures/) 📚 🌠  
 - [Human-Data Interaction Committee](https://ec-3.org/governance/technical-committees/human-data-interaction-committee/) 📚 🌠  
 - [Building Smart](https://www.buildingsmart.org/community/)  📚 🌠 
+- [Building Smart International](https://info.buildingsmart.org/benefits-page)  📚 🌠 
+- [Open Design Alliance](https://www.opendesign.com/member-showcase)  📚 🌠 
+   
+#### Course 🧑‍🎓
+- [BuildingSMART COBie Certified Professional™ examination](https://cobie.buildingsmart.org/)  📚 🌠 
+ 
    
 #### Papers 📑
 - Blockchain in the built environment and construction industry: A systematic review, conceptual models and practical use cases, Li, J., Greenwood, D., Kassem, M. Jun 2019, In: Automation in Construction 📚 🌠 
@@ -51,16 +59,24 @@
 - Face to Face 📚 🌠   
 - BIM Technologies 📚 🌠  
 - Building Smart  📚 🌠 
+- BuildingSMART's International Podcat 📚 🌠
    
- #### Webinar   
+#### Report ℹ️
+- [The buildingSMART Annual Report 2020](https://publications.buildingsmart.org/the-buildingsmart-international-annual-report-2020.html) 📚 🌠 
+- [UK BIM Framework Infographic](https://www.ukbimframework.org/wp-content/uploads/2021/08/UKBIMF-UKBIMF-XX-XX-IM-PT-000001-UKBIMFramework_Infographic.pdf) 📚 🌠 
+- [UK BIM Framework Learning Outcomes](https://www.ukbimframework.org/wp-content/uploads/2021/08/UK-BIM-Framework-Learning-Outcomes_Edition1.pdf) 📚 🌠 
+   
+   
+#### Webinar   
  - [Autodesk](https://www.autodesk.co.uk/campaigns/bnl-nordics/bim360/webinarseries) 📚 🌠     
  - [BIM TRACK](https://bimtrack.co/resources/webinars) 📚 🌠  
  - [Plannerly](https://www.plannerly.com/wednesdays-with-plannerly/) 📚 🌠  
  - [Building Smart](https://www.buildingsmart.org/resources/webinars/) 📚 🌠  
  - [NBS](https://www.thenbs.com/events) 📚 🌠 
  - [BSI Group](https://www.bsigroup.com/en-GB/our-services/events/webinars/2020/bs-en-iso-19650-5-launch-event-and-uk-bim-framework-update/) 📚 🌠  
+ - [Open Design Alliance](https://www.opendesign.com/webinars) 📚 🌠  
    
- #### Video 📹
+#### Video 📹
 - [Autodesk](https://www.youtube.com/watch?v=suNadRnHy-U) 📚 🌠  
 - [The B1M](https://www.youtube.com/watch?v=s1yN-LMs_jU) 📚 🌠 
 - [Bouygues Construction](https://www.youtube.com/watch?v=omaw1mdk9xg) 📚 🌠 
