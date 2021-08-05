@@ -65,7 +65,9 @@
 - [The buildingSMART Annual Report 2020](https://publications.buildingsmart.org/the-buildingsmart-international-annual-report-2020.html) 📚 🌠 
 - [UK BIM Framework Infographic](https://www.ukbimframework.org/wp-content/uploads/2021/08/UKBIMF-UKBIMF-XX-XX-IM-PT-000001-UKBIMFramework_Infographic.pdf) 📚 🌠 
 - [UK BIM Framework Learning Outcomes](https://www.ukbimframework.org/wp-content/uploads/2021/08/UK-BIM-Framework-Learning-Outcomes_Edition1.pdf) 📚 🌠 
-   
+- [The European BIM Handbook](https://www.ukbimframework.org/wp-content/uploads/2019/10/EU_BIM_Task_Group_Handbook.pdf) 📚 🌠 
+- [The Centre For Protection For National Infrastructure: Introduction to ISO 19650](https://www.cpni.gov.uk/system/files/documents/86/c3/CPNI%20-%20Introduction%20to%20BS%20EN%20ISO%2019650-5.pdf) 📚 🌠 
+- [Information Management Standards Landscape](https://docs.google.com/spreadsheets/d/e/2PACX-1vQERmWfbTP5EryYvdonAoyCCC7IMcKlR-DioYUTKX_9xwqvaUaNhZZ1_CNFU3lpfS7sbkiZF_HyOwmo/pubhtml?gid=624145627&single=true) 📚 🌠 
    
 #### Webinar   
  - [Autodesk](https://www.autodesk.co.uk/campaigns/bnl-nordics/bim360/webinarseries) 📚 🌠     
@@ -74,7 +76,8 @@
  - [Building Smart](https://www.buildingsmart.org/resources/webinars/) 📚 🌠  
  - [NBS](https://www.thenbs.com/events) 📚 🌠 
  - [BSI Group](https://www.bsigroup.com/en-GB/our-services/events/webinars/2020/bs-en-iso-19650-5-launch-event-and-uk-bim-framework-update/) 📚 🌠  
- - [Open Design Alliance](https://www.opendesign.com/webinars) 📚 🌠  
+ - [Open Design Alliance](https://www.opendesign.com/webinars) 📚 🌠 
+ - [Guidance Webinars](https://www.youtube.com/playlist?list=PL2I--FuEJX4hV4pM7VUnSC7sii4GrDaUm) 📚 🌠
    
 #### Video 📹
 - [Autodesk](https://www.youtube.com/watch?v=suNadRnHy-U) 📚 🌠  
@@ -82,8 +85,8 @@
 - [Bouygues Construction](https://www.youtube.com/watch?v=omaw1mdk9xg) 📚 🌠 
 - [ArcDox](https://www.youtube.com/watch?v=bJTNhbVcBFk) 📚 🌠 
 - [ARCHICAD](https://www.youtube.com/watch?v=5Qj9pI5us7o) 📚 🌠 
-
+- [Information requirements: Line of Sight Video](https://www.ukbimframework.org/wp-content/uploads/2020/09/OIR-Line-of-Sight.mp4) 📚 🌠 
   
   
-
+### Please give this repository a star ⭐ if you have found it useful! THANK YOU! 👍 ⭐ 🎁
 
