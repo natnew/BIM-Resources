@@ -18,6 +18,7 @@
 - [Building Smart](https://www.buildingsmart.org/resources/blog/) 📚 🌠
 - [CDBB](https://www.cdbb.cam.ac.uk/BIM) 📚 🌠
 - [ICE](https://ice.org.uk/knowledge-and-resources/information-sheet/what-is-bim) 📚 🌠
+- [Women In BIM](https://womeninbim.org/insights/women-in-bim-talks-to-nick-hutchinson-about-gender-equality-in-the-construction-industry/) 📚 🌠
 
    
 #### Book 📖
