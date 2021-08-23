@@ -1,4 +1,9 @@
 <h1 align ="center"> BIM-Resources <h1>
+   
+   ![AEC Resources](https://github.com/natnew/BIM-Resources/blob/main/_Banner%20BIM.JPG)
+   
+ [More Resources](https://github.com/natnew/Awesome/blob/main/README.md) 
+   
 
 <h2 align ="center"> This repository contains resources to help you learn about BIM. 📚 🌠 </h2>
 
@@ -91,4 +96,4 @@
   
   
 ### Please give this repository a star ⭐ if you have found it useful! THANK YOU! 👍 ⭐ 🎁
-
+[More Resources](https://github.com/natnew/Awesome/blob/main/README.md) 
