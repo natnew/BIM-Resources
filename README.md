@@ -37,6 +37,7 @@
 - [Building Smart](https://www.buildingsmart.org/community/)  📚 🌠 
 - [Building Smart International](https://info.buildingsmart.org/benefits-page)  📚 🌠 
 - [Open Design Alliance](https://www.opendesign.com/member-showcase)  📚 🌠 
+- [Global BIM Network](https://www.globalbim.org/information-collection?f%5B0%5D=information_collection%3A355)  📚 🌠 
    
 #### Course 🧑‍🎓
 - [BuildingSMART COBie Certified Professional™ examination](https://cobie.buildingsmart.org/)  📚 🌠 
