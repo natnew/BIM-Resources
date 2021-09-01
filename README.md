@@ -2,8 +2,14 @@
    
    ![AEC Resources](https://github.com/natnew/BIM-Resources/blob/main/_Banner%20BIM.JPG)
    
- [More Resources](https://github.com/natnew/Awesome/blob/main/README.md) 
+
+  
+   ![Autodesk Sample Model](https://github.com/natnew/BIM-Resources/blob/main/ACC%20-%20Site%20Model%20Giff.gif) 
    
+ ##### Above: Autodesk Sample Model <br>
+   
+   [More Resources](https://github.com/natnew/Awesome/blob/main/README.md) 
+  
 
 <h2 align ="center"> This repository contains resources to help you learn about BIM. 📚 🌠 </h2>
 
