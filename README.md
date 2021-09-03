@@ -31,6 +31,7 @@
 - [ICE](https://ice.org.uk/knowledge-and-resources/information-sheet/what-is-bim) 📚 🌠
 - [Women In BIM](https://womeninbim.org/insights/women-in-bim-talks-to-nick-hutchinson-about-gender-equality-in-the-construction-industry/) 📚 🌠
 - [BSI Group](https://www.bsigroup.com/en-GB/Building-Information-Modelling-BIM/) 📚 🌠
+- [MagiCAD](https://www.magicad.com/en/blog/2020/03/bim-adoption-europe/) 📚 🌠
 
    
 #### Book 📖
